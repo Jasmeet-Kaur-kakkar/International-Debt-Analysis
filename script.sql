@@ -79,7 +79,7 @@ fields terminated by ','
 enclosed by'"'
 lines terminated by '\n' ignore 1 rows;
 
- LOAD DATA LOCAL INFILE 'C:/Users/jasme/OneDrive/Desktop/International_Debt_Statistics/IDS_ALLCountries_Data_UTF8.csv'
+LOAD DATA LOCAL INFILE 'C:/Users/jasme/OneDrive/Desktop/International_Debt_Statistics/IDS_ALLCountries_Data_UTF8.csv'
 INTO TABLE IDS_ALLCOUNTRIES_DATA
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
